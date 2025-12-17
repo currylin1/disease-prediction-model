@@ -13,5 +13,3 @@
 - Naive Bayes（伯努力貝氏）
 - SVM（Support Vector Machine）
 - Decision Tree（決策樹）
-
-## 專案結構
